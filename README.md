@@ -27,4 +27,7 @@ This dashboard analyzes Paytm transaction data to monitor transaction performanc
 - Success Rate
 
 ## 📷 Dashboard Preview
-See **Dashboard_Screenshot.png** in this repository.
+See **Dashboard_Screenshot.png** in this repository
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashboard_Screenshot.png)
