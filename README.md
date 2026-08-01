@@ -1,7 +1,7 @@
 # Paytm-Transaction-Dashboard
 # 📊 Paytm Transaction Dashboard
 
-Interactive Paytm Transaction Dashboard built using Excel and AI-assisted workflow.
+Interactive Paytm Transaction Dashboard built using Excel and AI-assistance.
 
 ## 📌 Project Overview
 This dashboard analyzes Paytm transaction data to monitor transaction performance, success rate, bank-wise analysis, city-wise trends, and device usage.
